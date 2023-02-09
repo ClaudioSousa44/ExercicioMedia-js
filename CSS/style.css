@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+form{
+    height: 50vh;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 0px 12px #000;
+    margin: auto;
+}
+
+label{
+    padding: 20px;
+}
+
+input{
+    margin: 20px;
+    height: 30px;
+}
+
+button{
+    margin: 20px;
+}
+ 
+#res{
+    text-align: center;
+}
+
+.sombra-vermelha{
+    box-shadow: 0px 0px 12px  red;
+}
+
+.sombra-azul{
+    box-shadow: 0px 0px 12px  blue;
+}
+
+.sombra-amarelo{
+    box-shadow: 0px 0px 12px  yellow;
+}
+
+P{
+    text-align: center;
+}
+
